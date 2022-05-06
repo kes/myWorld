@@ -29,10 +29,24 @@ int main()
 
 	return 0;
 }
+/*
+  Adding comment here
+
+  Shoulda, woulda, coulda.
+ */
 void sayHello(int x){
 	for (int i = 0; i<x; i++){
 		printf("Hello\n");	
 
+	}
+}
+/**
+ * okay but you forgot the comment
+ */
+
+void sayGoodbye(int x){
+	for (int i = 0; i< x; i++){
+		printf("goodbye\n");
 	}
 }
 
