@@ -29,4 +29,10 @@ int main()
 
 	return 0;
 }
+void sayHello(int x){
+	for (int i = 0; i<x; i++){
+		printf("Hello\n");	
+
+	}
+}
 
