@@ -15,7 +15,8 @@ int main()
 	  printf("Hello, I'm %d -- really", i);
 	  
 	}
-
+	// need to add comments (so I can have some remote changes!)
+	// great work!!
 	for(int i=0; i < 4; i++){
 	  printf("Hello, I'm %d -- it's fine, right?", i);
 	  
