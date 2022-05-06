@@ -40,4 +40,13 @@ void sayHello(int x){
 
 	}
 }
+/**
+ * okay but you forgot the comment
+ */
+
+void sayGoodbye(int x){
+	for (int i = 0; i< x; i++){
+		printf("goodbye\n");
+	}
+}
 
