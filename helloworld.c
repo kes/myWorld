@@ -21,7 +21,11 @@ int main()
 	  printf("Hello, it's me and  I'm %d -- it's fine, right?", i);
 	  
 	}
-
+	
+	int x = 0;
+	while (x++ < 10){
+	  printf("new loop!\n");
+	}
 
 	return 0;
 }
